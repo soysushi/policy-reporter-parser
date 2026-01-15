@@ -94,8 +94,8 @@ resume_parser/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd policy_reporter
+   git clone https://github.com/soysushi/policy-reporter-parser
+   cd policy-reporter-parser
    ```
 
 2. Create virtual environment:
