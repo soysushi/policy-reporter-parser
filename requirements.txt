@@ -1,0 +1,25 @@
+# Core parsing libraries
+PyPDF2==3.0.1
+pdfplumber==0.11.0
+python-docx==1.1.0
+
+# ML/LLM for extraction
+google-generativeai==0.3.2
+spacy>=3.8.0
+
+# Data validation and utilities
+pydantic>=2.10.0
+python-dotenv==1.0.0
+
+# Testing
+pytest>=7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Code quality
+black==23.12.1
+ruff==0.1.9
+mypy==1.8.0
+
+# Optional: Web demo
+gradio>=4.0.0

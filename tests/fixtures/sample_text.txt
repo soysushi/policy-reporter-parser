@@ -1,0 +1,15 @@
+JANE DOE
+Software Engineer
+
+Email: jane.doe@gmail.com
+Phone: (555) 123-4567
+
+SKILLS
+Python, Machine Learning, TensorFlow, Django, PostgreSQL
+Docker, Kubernetes, AWS, React, TypeScript
+
+EXPERIENCE
+Senior Software Engineer at TechCorp
+- Developed ML pipelines using Python and TensorFlow
+- Built RESTful APIs with Django
+- Managed cloud infrastructure on AWS

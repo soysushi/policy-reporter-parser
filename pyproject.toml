@@ -1,0 +1,26 @@
+[project]
+name = "resume-parser-framework"
+version = "1.0.0"
+description = "Production-grade pluggable resume parsing framework"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    {name = "Staff Engineer", email = "engineer@example.com"}
+]
+dependencies = [
+    "pdfplumber",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+
+[tool.ruff]
+line-length = 100
+lint.select = ["E", "F", "I", "N", "W"]
+lint.ignore = []
